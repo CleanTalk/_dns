@@ -2,7 +2,7 @@
 
 namespace Cleantalk\Common\Dns;
 
-class DNS
+class Dns
 {
     private static $min_server_timeout = 500;
     private static $max_server_timeout = 1500;
